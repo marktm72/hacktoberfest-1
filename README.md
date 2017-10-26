@@ -9,3 +9,5 @@ Am I doing this right?
 I want a free shirt!
 
 rig the system
+
+hello this is a very useful readme
