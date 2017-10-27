@@ -10,4 +10,4 @@ Select your new repo under ``head fork`` and leave ``base fork`` as it is. And y
 
 ## Link 'em here!
 
-[Mark l-b](https://github.com/marktm72)
+- [Mark l-b](https://github.com/marktm72)
